@@ -1,0 +1,14 @@
+{  
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": false,
+    "target": "es5",
+    "noEmit": true
+  },
+  "include": [
+    "scripts/*"
+  ]
+}

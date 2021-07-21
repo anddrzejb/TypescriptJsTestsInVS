@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net.tests1",
+  "private": true,  
+  "devDependencies": {},
+  "dependencies": {
+    "mocha": "8.3.0",
+    "@types/node": "^16.3.2"
+  }
+}
